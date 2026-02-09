@@ -1,0 +1,6 @@
+openssl=3.0.17
+setuptools=72.1.0
+aiohttp=3.10.5
+altair=5.0,1
+cairo=1.16.0
+expat=2.7.i1
